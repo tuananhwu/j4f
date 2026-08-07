@@ -3,8 +3,11 @@ difficulity: 1.0
 Quality: 4.0
 ## The Title
 <img width="1315" height="594" alt="image" src="https://github.com/user-attachments/assets/76ffb82c-ef9e-4208-8207-5fe605d27f71" />
+
 [you can find  the challenge in here](https://crackmes.one/crackme/6a46f20c8a86e4c2c5525631)
+
 ## Information Gathering
+
 I drop the file in the ghidra, open code browser
 find the main function in the symbol tree <img width="1068" height="437" alt="image" src="https://github.com/user-attachments/assets/4910a132-8800-4347-804f-f3a9509469ff" />
 Decompile the main function into C pseudocode.
