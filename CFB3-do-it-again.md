@@ -27,3 +27,5 @@ By scrolling down to the bottom of this CRT function, I found the call to the ac
 uVar6 = FUN_1400034a0(*puVar10,uVar1,uVar8); // This is the real main()
 ```
 
+### Analyzing the Main Logic
+
